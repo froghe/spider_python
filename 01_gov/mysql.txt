@@ -1,0 +1,18 @@
+# ½¨¿â
+create database govdb charset utf8;
+use govdb;
+# ½¨±í
+create table province(
+p_name varchar(20),
+p_code varchar(20)
+)charset=utf8;
+create table city(
+c_name varchar(20),
+c_code varchar(20),
+c_father_code varchar(20)
+)charset=utf8;
+create table county(
+x_name varchar(20),
+x_code varchar(20),
+x_father_code varchar(20)
+)charset=utf8;
