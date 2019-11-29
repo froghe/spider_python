@@ -1,13 +1,13 @@
 #### 01_gov
 
 ```python
-1、单个文件，增量爬取最新县以上行政区划代码，并保存为csv文件和mysql数据库
+1、单个文件，增量爬取最新县以上行政区划代码，re、xpath查找实现，并保存为csv文件和mysql数据库
 2、scrapy框架爬取
 ```
 
 #### 02_maoyan
 
-```
+```python
 1、单个脚本爬取猫眼电影数据，并保存为json格式文件
 2、scrapy框架爬取猫眼电影，并保存csv文件、json文件、mongo数据库
 ```
@@ -26,8 +26,20 @@
 
 #### 05_tencent
 
-```
+```python
 1、scrapy爬取腾讯招聘信息，存入mysql
 2、scrapy_redis分布式爬取腾讯招聘信息，redis存储爬取指纹，去重，保存到mysql
+```
+
+#### 06_soImage
+
+```python
+1、单个脚本爬取so.com图片，re查找实现
+```
+
+#### 07_baidutieba
+
+```python
+1、单个脚本爬取百度贴吧中的图片，beautifulsoup查找实现
 ```
 
