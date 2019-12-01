@@ -34,12 +34,31 @@
 #### 06_soImage
 
 ```python
-1、单个脚本爬取so.com图片，re查找实现
+1、单个脚本爬取so.com图片，re、json解析
 ```
 
 #### 07_baidutieba
 
 ```python
 1、单个脚本爬取百度贴吧中的图片，beautifulsoup查找实现
+```
+
+#### 08_lianjia
+
+```python
+1、单个脚本爬取链家二手房信息，BeautifulSoup解析
+2、scrapy爬取链家二手房信息，BeautifulSoup解析，redis去重，mysql、csv、json保存
+```
+
+#### 09_youdao
+
+```python
+1、单个脚本实现有道翻译
+```
+
+#### 10_douban
+
+```python
+1、scrapy爬取豆瓣电影，json解析，mongo保存
 ```
 

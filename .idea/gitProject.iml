@@ -4,6 +4,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/02_maoyan/Maoyan" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05_tencent/Tencent" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08_lianjia/Lianjia" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_douban/Douban" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
