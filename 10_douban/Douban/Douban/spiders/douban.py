@@ -50,4 +50,3 @@ class DoubanSpider(scrapy.Spider):
             item['score'] = film['score']
             item['time'] = film['release_date']
             yield item
-

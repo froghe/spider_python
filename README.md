@@ -29,6 +29,7 @@
 ```python
 1、scrapy爬取腾讯招聘信息，存入mysql
 2、scrapy_redis分布式爬取腾讯招聘信息，redis存储爬取指纹，去重，保存到mysql
+3、单个脚本多线程爬取数据，保存为json文件
 ```
 
 #### 06_soImage
@@ -60,5 +61,11 @@
 
 ```python
 1、scrapy爬取豆瓣电影，json解析，mongo保存
+```
+
+#### 11_baiduImage
+
+```python
+1、scrapy爬取百度图片，并保存
 ```
 

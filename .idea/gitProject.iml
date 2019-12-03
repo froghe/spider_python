@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/05_tencent/Tencent" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/08_lianjia/Lianjia" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10_douban/Douban" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11_baiduImage/BaiduImage" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
